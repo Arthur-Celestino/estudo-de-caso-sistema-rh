@@ -1,6 +1,6 @@
 # Estudo de Caso – Sistema de RH
 
-# Professora Ellen Martins Lopes da Silva
+### Professora Ellen Martins Lopes da Silva
 
 ## 📚 Sobre a Atividade
 
