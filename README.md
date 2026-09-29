@@ -1,5 +1,7 @@
 # Estudo de Caso – Sistema de RH
 
+# Professora Ellen Martins Lopes da Silva
+
 ## 📚 Sobre a Atividade
 
 A atividade consiste em desenvolver um **Diagrama Entidade-Relacionamento (DER)** para o sistema de Recursos Humanos de uma empresa.
